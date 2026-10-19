@@ -1,0 +1,18 @@
+
+# Editor settings
+.vscode/
+
+# Documentation
+docs/
+
+# Reference mods and source files
+references/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Python cache (if tooling is added later)
+__pycache__/
+*.pyc
